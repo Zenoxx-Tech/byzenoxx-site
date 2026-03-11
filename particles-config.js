@@ -1,0 +1,10 @@
+particlesJS("particles-js",{
+particles:{
+number:{value:120},
+color:{value:"#00f7ff"},
+shape:{type:"circle"},
+opacity:{value:0.5},
+size:{value:3},
+move:{speed:2}
+}
+})
